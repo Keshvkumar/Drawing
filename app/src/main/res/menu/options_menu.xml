@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/pen"
+        android:icon="@drawable/ic_brush_white"
+        android:iconTint="@color/black"
+        android:title="@string/pen"/>
+    <item
+        android:id="@+id/eraser"
+        android:icon="@drawable/ic_eraser_white"
+        android:iconTint="@color/black"
+        android:title="@string/eraser"/>
+    <item
+        android:id="@+id/clear"
+        android:icon="@drawable/ic_delete_white"
+        android:iconTint="@color/black"
+        android:title="@string/clear"/>
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share"
+        android:iconTint="@color/black"
+        android:title="@string/share" />
+</menu>

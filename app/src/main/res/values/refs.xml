@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_eraser_white" />
+    <drawable name="ic_delete_white" />
+    <drawable name="ic_brush_white" />
+    <drawable name="ic_share" />
+</resources>

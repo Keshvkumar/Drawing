@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drawing</string>
+    <string name="pen">Pen</string>
+    <string name="eraser">Eraser</string>
+    <string name="clear">Clear</string>
+    <string name="share">Share</string>
+</resources>
